@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/piano_test/static/css/main.18a3f615.css",
+    "main.js": "/piano_test/static/js/main.7f966cf7.js",
+    "static/js/787.a1b17498.chunk.js": "/piano_test/static/js/787.a1b17498.chunk.js",
+    "static/media/toman.png": "/piano_test/static/media/toman.32851496e7b76966a17e.png",
+    "static/media/boy.png": "/piano_test/static/media/boy.eb3a6d243b0409500bb3.png",
+    "static/media/pexels-photo-573914.webp": "/piano_test/static/media/pexels-photo-573914.d30f90f6863263872293.webp",
+    "static/media/kizai.png": "/piano_test/static/media/kizai.564c829af0161a113da1.png",
+    "static/media/auditorium-86197_960_720.jpg": "/piano_test/static/media/auditorium-86197_960_720.8a2857be41f8fe5d6589.jpg",
+    "static/media/pexels-photo-8128014.jpg": "/piano_test/static/media/pexels-photo-8128014.4f2db3be87dce9f14f60.jpg",
+    "static/media/thelonious-sphere-monk-1281515_960_720.jpg": "/piano_test/static/media/thelonious-sphere-monk-1281515_960_720.b0914a712799059fa545.jpg",
+    "static/media/pexels-photo-1021142.jpeg": "/piano_test/static/media/pexels-photo-1021142.cd388dc3ffa6eafce639.jpeg",
+    "static/media/black_00010.jpg": "/piano_test/static/media/black_00010.f64e2fe4c318a3574763.jpg",
+    "static/media/pexels-photo-2378209.webp": "/piano_test/static/media/pexels-photo-2378209.5e18db0b20d0ace2ec2a.webp",
+    "static/media/piano-1039450_960_720.jpg": "/piano_test/static/media/piano-1039450_960_720.e1b2321b23b6fba37cb3.jpg",
+    "static/media/pexels-photo-112989.webp": "/piano_test/static/media/pexels-photo-112989.250df95137789ececfc8.webp",
+    "static/media/pexels-photo-6647845.webp": "/piano_test/static/media/pexels-photo-6647845.a1d1fe170d1a4ffc7e3d.webp",
+    "static/media/menu-6681018_960_720.png": "/piano_test/static/media/menu-6681018_960_720.264c9f8dd703e016ba93.png",
+    "index.html": "/piano_test/index.html",
+    "main.18a3f615.css.map": "/piano_test/static/css/main.18a3f615.css.map",
+    "main.7f966cf7.js.map": "/piano_test/static/js/main.7f966cf7.js.map",
+    "787.a1b17498.chunk.js.map": "/piano_test/static/js/787.a1b17498.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a3f615.css",
+    "static/js/main.7f966cf7.js"
+  ]
+}
