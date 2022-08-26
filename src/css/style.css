@@ -1,0 +1,246 @@
+body {
+    margin:0;
+    min-height: 100vh;
+    background-color: #1a1a1a;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.chart{
+    color: #fff;
+}
+
+ul{
+    margin:0;
+    list-style-type: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* home画面のP要素 */
+.headline{
+    color: #ffd700;
+    font-size: 1.3rem;
+}
+
+/* 以下、本当はHeaderコンポーネントに書きたい。 */
+Header{
+    height: 100vh;
+    /* background-image: url(../img/piano-1039450_960_720.jpg); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.wrapper{
+    max-width: 1300px;
+    margin:0 auto;
+}
+
+#home-concept{
+    display: flex;
+    justify-content: space-around;
+    margin-top:200px;
+    align-items: center;
+}
+
+
+#home-concept-img{
+    width:700px;
+}
+
+#home-concept-img img {
+    width: 100%;
+}
+
+#home-concept-text{
+    padding-left: 60px;
+    /* align-items: center; */
+}
+
+
+#feature{
+    margin-top: 200px;
+    padding: 100px 0;
+    background-color: #282a30;
+}
+
+/* #feature-1{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} */
+
+/* .feature-text p {
+    margin-left: 50px;
+} */
+
+#feature_p{
+    display: block;
+    width: 100%;
+    position: relative;
+    top: 100px;
+    left: 300px;
+
+}
+
+/* .feature-img{
+    width: 425px;
+    height: 430px;
+}
+
+.feature-img img{
+    width: 100%;
+} */
+
+#applay-button-bg{
+    background-image: url(../img/pexels-photo-1021142.jpeg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:400px;
+    margin-top: 200px;
+    /* text-align: center; */
+    position: relative;
+}
+
+#applay-button::after{
+    content: "";
+    border: 1px solid #fff;
+    display: inline-block;
+    position: absolute;
+    width: 95%;
+    height: 90%;
+    left:2.5%;
+    top:5%;
+    box-sizing: border-box;
+}
+
+#home-event{
+    display: flex;
+    justify-content: space-around;
+    margin-top:300px;
+    margin-bottom:200px;
+    align-items: center;
+}
+
+#home-event-text{
+    padding: 60px;
+}
+
+#home-event-img{
+    width: 700px;
+}
+/* 
+#home-event-img img{
+    width: 100%;
+} */
+
+
+#concept-1{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+
+#concept-1::after{
+    content: "";
+    position: absolute;
+    top: 30%;
+    height: 150px;
+    width: 140%;
+    z-index: -1;
+    display: block;
+    background-image: url(../img/black_00010.jpg);
+}
+
+#concept-1-img{
+    width: 200px;
+    height: 300px;
+}
+
+#concept-1-img img{
+    width: 100%;
+    height: auto;
+}
+
+#concept-1-text{
+    background-color: black;
+    height: 600px;
+    width: 500px;
+    text-align: center;
+}
+
+
+#concept-2{ 
+    margin: 200px 0;
+    height: 1000px;
+    width: 100%;
+    position: relative;
+}
+
+#concept-2-text{  
+    padding: 30px;
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    color:#000;
+    position: absolute;
+    top:40%;
+    left:20%;
+}
+
+
+#concept-2::after{
+    content: "";
+    position: absolute;
+    top:0;
+    height: 700px;
+    width: 100%;
+    z-index: -1;
+    display: block;
+    background-image: url(../img/auditorium-86197_960_720.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#concept-2-img img{
+    width: 100%;
+}
+
+
+
+/* Table.tsxで使用のスタイル */
+
+th{
+    border-bottom: 1px solid #fff;
+    width: 33%;
+}
+
+td{
+    line-height: 40px;
+}
+
+h3{
+    text-align: center;
+}
+
+
+#contact-form{
+    width: 80%;
+    margin: 0 auto;
+}
+
+#name, #email, #address{
+    width: 50%;
+}
